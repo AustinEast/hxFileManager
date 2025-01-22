@@ -6,7 +6,6 @@
         "cross",
         "cpp",
         "haxe",
-        "openfl",
         "windows",
         "utility",
         "util",
@@ -20,8 +19,6 @@
         "HeroEyad"
     ],
     "dependencies": {
-        "hxcpp": "",
-        "lime": "",
-        "openfl": ""
+        "hxcpp": ""
     }
 }
