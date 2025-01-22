@@ -1,4 +1,4 @@
-package src.hxFileManager;
+package hxFileManager;
 
 @:native("move_directory")
 @:native("delete_file")

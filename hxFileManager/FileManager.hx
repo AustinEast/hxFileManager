@@ -1,11 +1,11 @@
-package src.hxFileManager;
+package hxFileManager;
 
 import haxe.io.Path;
 import sys.FileSystem;
 import sys.io.File;
 import haxe.ds.StringMap;
 import haxe.Json;
-import src.hxFileManager.FileUtils;
+import hxFileManager.FileUtils;
 
 class FileManager {
 	public static var isAdmin:Bool = checkIfAdmin();
